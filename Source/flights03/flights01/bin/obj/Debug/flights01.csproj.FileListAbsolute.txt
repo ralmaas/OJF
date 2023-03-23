@@ -1,0 +1,10 @@
+C:\Users\roara\source\repos\flights01\flights01\bin\Debug\flights01.exe.config
+C:\Users\roara\source\repos\flights01\flights01\bin\Debug\flights01.exe
+C:\Users\roara\source\repos\flights01\flights01\bin\Debug\flights01.pdb
+C:\Users\roara\source\repos\flights01\flights01\obj\Debug\flights01.csproj.AssemblyReference.cache
+C:\Users\roara\source\repos\flights01\flights01\obj\Debug\flights01.Form1.resources
+C:\Users\roara\source\repos\flights01\flights01\obj\Debug\flights01.Properties.Resources.resources
+C:\Users\roara\source\repos\flights01\flights01\obj\Debug\flights01.csproj.GenerateResource.cache
+C:\Users\roara\source\repos\flights01\flights01\obj\Debug\flights01.csproj.CoreCompileInputs.cache
+C:\Users\roara\source\repos\flights01\flights01\obj\Debug\flights01.exe
+C:\Users\roara\source\repos\flights01\flights01\obj\Debug\flights01.pdb
